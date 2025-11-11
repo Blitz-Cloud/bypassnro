@@ -1,4 +1,8 @@
-# Chris Titus Tech's Bypass NRO on STEROIDS!?!?!?
+# My version for the unattend file of [Chris Titus Tech's Bypass NRO on STEROIDS!?!?!](https://github.com/ChrisTitusTech/bypassnro)
+
+What i changed:
+1. Teams, Outlook and another 1 or 2 apps are still installed
+2. In the oobe you are prompted to create an local user account
 
 From the OOBE Screen press Shift + F10
 
