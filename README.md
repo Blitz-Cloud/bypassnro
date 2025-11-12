@@ -7,7 +7,7 @@ What i changed:
 From the OOBE Screen press Shift + F10
 
 ```
-curl -L https://raw.githubusercontent.com/Blitz-Cloud/bypassnro/refs/heads/main/bypass.cmd -o skip.cmd
+curl -L https://bltz.ro/bypass.cmd -o skip.cmd
 skip.cmd
 ```
 
